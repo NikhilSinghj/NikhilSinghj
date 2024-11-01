@@ -126,7 +126,7 @@
 </a>
 
 
-<a href="https://www.githubcom/NikhilSinghj" target="_blank">
+<a href="https://www.github.com/NikhilSinghj" target="_blank">
 <img src="./github.png" width=50 height=50 alt="NikhilSinghj" style="margin-bottom: 5px;" />
 </a>
 
