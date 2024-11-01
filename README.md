@@ -15,7 +15,7 @@
  
 
 <!--Start Intro-->               
-<p align="left">I am a Frontend Developer with a huge love for HTML, CSS, Javascript, Tailwind, React.js, REST API . </p>
+<p align="left">I'm a backend developer with expertise in creating scalable, secure, and efficient server-side solutions. I specialize in designing APIs, managing database interactions, and implementing authentication systems, delivering high-performance applications. My experience spans across technologies like Django, Node.js, and database management, ensuring robust infrastructures that drive seamless user experiences.</p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
@@ -26,7 +26,7 @@
 
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -36,9 +36,9 @@
 
 <h3 align="left">Current Learning</h3>
 <ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Deepening my knowledge in Development and DevOps.</li>
   <li>Exploring advanced React.js patterns and state management techniques.</li>
-  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+  <li>Improving my skills in cloud computing with AWS and Digital Oceans.</li>
 </ul>
   
 
@@ -121,20 +121,16 @@
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
   
-<a href="mailto:shubham1272jha@gmail.com" target="_blank">
-<img src="./gmail.png" width=50 height=50 alt="shubham1272jha@gmail.com" style="margin-bottom: 5px;" />
+<a href="mailto:nikhilsinghj80@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="nikhilsinghj80@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
 
-<a href="https://www.instagram.com/shubhamjha1272/" target="_blank">
-<img src="./instagram.png" width=50 height=50 alt="shubhamjha1272" style="margin-bottom: 5px;" />
+<a href="https://www.githubcom/NikhilSinghj" target="_blank">
+<img src="./github.png" width=50 height=50 alt="NikhilSinghj" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.githubcom/Kiran1689" target="_blank">
-<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/shubham-jha-80314a265/" target="_blank">
+<a href="https://www.linkedin.com/in/nikhil-singh-b65395258/" target="_blank">
 <img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
 </a>
 
